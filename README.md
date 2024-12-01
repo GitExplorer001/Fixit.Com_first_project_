@@ -18,8 +18,8 @@ This project is a **Smartphone Repair Shop Website** designed to streamline the 
 - **View Details**: Access detailed customer information, including addresses.
 - **Instructions to Log In**:
   - To log into the admin portal, please use the following credentials:
-      -**Username:** Admin
-      -**Password:** a26TMP8#jn@
+      **Username:** Admin
+      **Password:** a26TMP8#jn@
   - If it says "Invalid Credentials!" please reset the password and try again.
   - Resetting the password will set it to default password, in this case which is 'a26TMP8#jn@'.
 
