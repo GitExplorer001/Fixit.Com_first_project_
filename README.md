@@ -1,7 +1,55 @@
-This is my fully working website. It's an website for a smartphone repairing shop. 
-There are 2 parts in this page.
-Customer End: Here customers can file their queries about their broken devices that needs to be fixed, They can also track the status of their order simply by entering their phone number or they can contact the shop owner.
-Owner End: Here the shop owner can see all the queries, he can sort them by device model, customer name, etc. He can also search stuffs. Secondly he can mark the quaries as accepted or rejected or completed. He can also view the queries in detail and get stuff like the customer address.
+# Smartphone Repair Shop Website
 
+This project is a **Smartphone Repair Shop Website** designed to streamline the repair process for customers and shop owners. It includes two main components: **Customer End** and **Owner End (Admin Panel)**.
 
-The Admin protion is fully made by me (from design to programming). The customer end was designed by the co owner of the project and the PHP programming for the customer end was done by me.
+---
+
+## **Features**
+
+### **Customer End**
+- **File Queries**: Customers can submit repair requests for their broken devices.
+- **Track Status**: Track repair progress using the registered phone number.
+- **Contact Shop**: Easily reach out to the shop owner for assistance.
+
+### **Owner End (Admin Panel)**
+- **Manage Queries**:
+  - View, search, and sort queries by device model, customer name, etc.
+  - Mark queries as **Accepted**, **Rejected**, or **Completed**.
+- **View Details**: Access detailed customer information, including addresses.
+
+---
+
+## **Tech Stack**
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
+- **Frameworks/Libraries**: Bootstrap 5 (for styling)
+
+---
+
+## **Development Details**
+- **Customer End**: 
+  - **Design**: Created by the project co-owner.
+  - **PHP Programming**: Built entirely by me.
+- **Owner End (Admin Panel)**: Fully designed and developed by me, including both frontend and backend functionality.
+
+---
+
+## **How to Use**
+1. **For Customers**:
+   - Submit repair queries through the form.
+   - Use the phone number to track the status.
+2. **For Shop Owners**:
+   - Log in to the admin panel to manage repair requests.
+   - Sort and search queries or update their status.
+
+---
+
+## **Important Notes**
+- The project is optimized for efficient query management.
+- Collaboration: The **admin panel** is entirely my creation, while the **customer end design** was provided by the co-owner.
+
+---
+
+## **Disclaimer**
+This content is owned by [https://github.com/GitExplorer001] and Team, and is distributed freely. Unauthorized redistribution or resale is prohibited.
