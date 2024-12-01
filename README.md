@@ -35,7 +35,7 @@ This project is a **Smartphone Repair Shop Website** designed to streamline the 
 
 ## Diagram:
 
-![Diagram](https://github.com/GitExplorer001/Weather-APP/blob/main/Diagram.png)
+![Diagram](https://anishghosh.site/imgs/fixit-diagram.png)
 
 ---
 
