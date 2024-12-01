@@ -16,6 +16,12 @@ This project is a **Smartphone Repair Shop Website** designed to streamline the 
   - View, search, and sort queries by device model, customer name, etc.
   - Mark queries as **Accepted**, **Rejected**, or **Completed**.
 - **View Details**: Access detailed customer information, including addresses.
+- **Instructions to Log In**:
+  - To log into the admin portal, please use the following credentials:
+      -**Username:** Admin
+      -**Password:** a26TMP8#jn@
+  - If it says "Invalid Credentials!" please reset the password and try again.
+  - Resetting the password will set it to default password, in this case which is 'a26TMP8#jn@'.
 
 ---
 
