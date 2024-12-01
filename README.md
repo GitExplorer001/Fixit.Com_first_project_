@@ -35,7 +35,7 @@ This project is a **Smartphone Repair Shop Website** designed to streamline the 
 
 ## Diagram:
 
-![Diagram](https://anishghosh.site/imgs/fixit-diagram.png)
+![Diagram](https://github.com/GitExplorer001/Fixit.Com_first_project_/blob/main/fixit-diagram.png)
 
 ---
 
