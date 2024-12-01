@@ -58,6 +58,7 @@ This project is a **Smartphone Repair Shop Website** designed to streamline the 
 ## **Important Notes**
 - The project is optimized for efficient query management.
 - Collaboration: The **admin panel** is entirely my creation, while the **customer end design** was provided by the co-owner.
+- [Live Preview](https://anishghosh.site/projects/preview/fixit)
 
 ---
 
