@@ -52,4 +52,4 @@ This project is a **Smartphone Repair Shop Website** designed to streamline the 
 ---
 
 ## **Disclaimer**
-This content is owned by Anish Ghosh(https://github.com/GitExplorer001) and Team, and is distributed freely. Unauthorized redistribution or resale is prohibited.
+This content is owned by [Anish Ghosh](https://github.com/GitExplorer001) and [Saptarshi](https://github.com/GitExplorer001), and is distributed freely. Unauthorized redistribution or resale is prohibited.
