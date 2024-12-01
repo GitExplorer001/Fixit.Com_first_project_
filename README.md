@@ -33,6 +33,10 @@ This project is a **Smartphone Repair Shop Website** designed to streamline the 
   - **PHP Programming**: Built entirely by me.
 - **Owner End (Admin Panel)**: Fully designed and developed by me, including both frontend and backend functionality.
 
+## Diagram:
+
+![Diagram](https://github.com/GitExplorer001/Weather-APP/blob/main/Diagram.png)
+
 ---
 
 ## **How to Use**
