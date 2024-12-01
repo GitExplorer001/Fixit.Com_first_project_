@@ -29,7 +29,7 @@ This project is a **Smartphone Repair Shop Website** designed to streamline the 
 
 ## **Development Details**
 - **Customer End**: 
-  - **Design**: Created by the project co-owner.
+  - **Design**: Created by the project co-owner Saptarshi.
   - **PHP Programming**: Built entirely by me.
 - **Owner End (Admin Panel)**: Fully designed and developed by me, including both frontend and backend functionality.
 
